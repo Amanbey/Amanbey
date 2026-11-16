@@ -1,227 +1,247 @@
 <div align="center">
 
 <!-- Hero Banner Asset -->
-<img src="./assets/hero-banner.svg" alt="Aman Abdela - Full-Stack Software Engineer Hero Banner" width="100%" />
+<img src="./assets/hero-banner.svg" alt="Aman Abdela - Software Engineer & System Architect" width="100%" />
 
-<br/>
+<br/><br/>
 
-<!-- Dynamic Typing Headline -->
+<!-- Professional Badges -->
+<a href="https://linkedin.com/in/aman-abdela">
+  <img src="https://img.shields.io/badge/LinkedIn-Aman_Abdela-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
+&nbsp;
+<a href="mailto:2atechsolutions@gmail.com">
+  <img src="https://img.shields.io/badge/Business_Inquiry-2atechsolutions%40gmail.com-10B981?style=flat-square&logo=gmail&logoColor=white" alt="Business Email" />
+</a>
+&nbsp;
+<a href="mailto:amanabdela6288@gmail.com">
+  <img src="https://img.shields.io/badge/Direct_Contact-amanabdela6288%40gmail.com-0284C7?style=flat-square&logo=mailgun&logoColor=white" alt="Direct Email" />
+</a>
+&nbsp;
 <a href="https://github.com/Amanbey">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&height=45&lines=Full-Stack+Software+Engineer+%26+System+Architect;Software+Engineering+%40+Adama+Science+%26+Tech+University;Next.js+%7C+NestJS+%7C+TypeScript+%7C+PostgreSQL+%7C+Python;Building+Scalable+Web+Apps+%26+Real-Time+Interactive+Systems" alt="Typing Headline" />
+  <img src="https://img.shields.io/badge/Location-Remote_Worldwide-0F172A?style=flat-square&logo=googlemaps&logoColor=38BDF8" alt="Location" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Status and Quick Info Badges -->
-<p align="center">
-  <a href="https://github.com/Amanbey">
-    <img src="https://img.shields.io/badge/Status-Open_for_Opportunities-0ea5e9?style=for-the-badge&logo=codeforces&logoColor=white" alt="Status" />
-  </a>
-  <a href="mailto:ziyadabdela58@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ziyadabdela58%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Amanbey">
-    <img src="https://img.shields.io/badge/Location-Ethiopia-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" alt="Location" />
-  </a>
-  <a href="https://github.com/Amanbey">
-    <img src="https://img.shields.io/badge/Education-ASTU_Software_Engineering-0f172a?style=for-the-badge&logo=academia&logoColor=38bdf8" alt="Education" />
-  </a>
-</p>
-
-<!-- Section Divider -->
-<img src="./assets/divider.svg" alt="Divider" width="100%" />
+<img src="./assets/divider.svg" alt="Section Divider" width="100%" />
 
 </div>
 
-## 👨‍💻 About Me
+## 📌 Executive Summary
 
-I am a **Full-Stack Software Engineer** and **Software Engineering student at Adama Science and Technology University (ASTU)** with a deep passion for building high-performance web applications, robust distributed backends, and real-time interactive systems.
+I am a **Software Engineer**, **Full-Stack Developer**, and **Business Automation Engineer** specializing in the design and delivery of resilient, production-ready software solutions. My engineering focus bridges robust enterprise web applications, real-time distributed backends, intelligent multi-agent AI systems, and low-latency edge/IoT protocols.
 
-- 🎓 **Education**: B.Sc. in Software Engineering, School of Electrical Engineering & Computing, Adama Science and Technology University (ASTU).
-- ⚡ **Core Philosophy**: Clean architecture, type safety, modular microservices, and relentless focus on user experience.
-- 🚀 **Specializations**: Real-time WebSocket architectures, full-stack enterprise portals (Next.js / React / NestJS), resilient databases (PostgreSQL / MongoDB), and applied Machine Learning pipelines.
-- 🌐 **Interests**: Cloud-native architectures, IoT mesh networks (ESP-NOW / SafeMesh), AI conversational agents, and competitive system performance.
+Rather than assembling code for isolated tasks, I build maintainable software products that solve concrete operational and business challenges—ranging from offline-first agricultural intelligence platforms for smallholders to high-throughput multiplayer engines and autonomous CRM triage assistants.
+
+- 🏗️ **Architectural Focus**: Scalable distributed systems, type-safe full-stack pipelines, clean modular services, and offline-first database synchronization.
+- ⚡ **Engineering Practice**: Strict type safety, automated CI/CD testing, defensive rate limiting, cryptographic session validation, and intuitive user experiences.
+- 🌍 **Collaboration**: Available for international engineering contracts, full-stack product development, and remote technical roles.
 
 <div align="center">
-  <img src="./assets/divider.svg" alt="Divider" width="100%" />
+  <img src="./assets/divider.svg" alt="Section Divider" width="100%" />
 </div>
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Stack & Engineering Capabilities
 
-<div align="center">
-
-### Frontend & UI Engineering
-<p>
-  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### Backend, APIs & Real-Time
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Express.js_5-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
-  <img src="https://img.shields.io/badge/WebSockets-0284C7?style=for-the-badge&logo=fastapi&logoColor=white" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/RESTful_APIs-0EA5E9?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-</p>
-
-### Databases & ORMs
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/TypeORM-FE0808?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
-  <img src="https://img.shields.io/badge/Neon_Serverless-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon DB" />
-</p>
-
-### Machine Learning, IoT & Systems
-<p>
-  <img src="https://img.shields.io/badge/Python_3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/ESP32_/_ESP--NOW-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-</p>
-
-### DevOps, Cloud & Tooling
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Vercel_Serverless-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Linux_/_Bash-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-</div>
-
-<div align="center">
-  <img src="./assets/divider.svg" alt="Divider" width="100%" />
-</div>
-
-## 🌟 Featured Projects
+A curated overview of technologies, frameworks, and architectural tools verified across production codebases:
 
 <table>
   <tr>
+    <td width="33%" valign="top">
+      <h4>🌐 Frontend Development</h4>
+      <ul>
+        <li><b>Frameworks:</b> Next.js 14 / 15 (App Router), React 18 / 19, Svelte 5</li>
+        <li><b>Languages:</b> TypeScript (Strict), JavaScript (ES2024+)</li>
+        <li><b>Styling &amp; UI:</b> Tailwind CSS, Base UI, PostCSS</li>
+        <li><b>3D &amp; Creative:</b> Three.js, React Three Fiber (R3F)</li>
+        <li><b>Core Standards:</b> HTML5, CSS3, Modern Web APIs</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>⚙️ Backend &amp; Distributed Systems</h4>
+      <ul>
+        <li><b>Runtimes &amp; Frameworks:</b> Node.js, NestJS 11, Express 4 / 5</li>
+        <li><b>Real-Time &amp; Concurrency:</b> WebSockets, Socket.io</li>
+        <li><b>APIs:</b> RESTful Architectures, Webhooks, Telegram Bot API</li>
+        <li><b>Security:</b> JWT Authentication, HMAC Verification, Rate Limiting</li>
+        <li><b>Microcontrollers:</b> ESP32, ESP-NOW Mesh Protocol</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🗄️ Database, AI &amp; Automation</h4>
+      <ul>
+        <li><b>Databases:</b> PostgreSQL, Supabase, MongoDB, Mongoose</li>
+        <li><b>Client-Side Storage:</b> IndexedDB (<code>idb</code>), LocalStorage</li>
+        <li><b>AI &amp; ML:</b> Multi-Agent Architectures, OpenAI API, Scikit-Learn</li>
+        <li><b>Workflow Automation:</b> grammY Bot Framework, n8n, Webhooks</li>
+        <li><b>DevOps &amp; Tools:</b> Docker, Git, GitHub Actions, Vite, Postman</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="./assets/divider.svg" alt="Section Divider" width="100%" />
+</div>
+
+## 🌟 Featured Engineering Projects
+
+A showcase of verified software products emphasizing full-stack engineering, distributed architectures, hardware networks, and practical automation.
+
+<table>
+  <!-- Row 1: Root & Word Battle -->
+  <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🎮 Word Battle — Real-Time Multiplayer Duel Platform</h3>
+      <h3 align="left">🌱 <a href="https://github.com/Amanbey/Root">Root (ሩት) — Offline-First Multi-Agent Agronomy Platform</a></h3>
       <p align="left">
-        A real-time competitive multiplayer word battle and typing race platform engineered as a seamless <b>Telegram Mini App</b>. Features millisecond-precision WebSocket gameplay, automated matchmaking queues, private rooms with invite links, solo practice modes, and global Elo leaderboards.
+        An offline-first multi-agent agricultural advisory platform engineered to empower smallholder farmers operating in intermittent or zero-connectivity environments. Integrates client-side IndexedDB synchronization with cloud Supabase instances and intelligent agent advisory pipelines.
       </p>
       <p align="left">
-        <b>Tech Stack:</b> <code>Next.js 14</code> • <code>NestJS 10</code> • <code>Socket.io</code> • <code>TypeORM</code> • <code>PostgreSQL</code> • <code>TailwindCSS</code> • <code>Vercel Serverless</code>
+        <b>Core Architecture:</b> <code>Next.js 15</code> • <code>React 19</code> • <code>TypeScript</code> • <code>Supabase</code> • <code>IndexedDB (idb)</code> • <code>Turbopack</code>
       </p>
+      <ul>
+        <li>Multi-agent advisory workflows adapted for local agronomic contexts.</li>
+        <li>Resilient bidirectional offline data synchronization via IndexedDB.</li>
+        <li>Automated CI/CD validation pipelines with strict TypeScript compilation.</li>
+      </ul>
       <p align="left">
-        ✨ <i>Features: Telegram HMAC auth, real-time 1v1 state synchronization, weekly podiums, serverless database pooling.</i>
+        <a href="https://github.com/Amanbey/Root"><b>Inspect Source Code →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🧾 <a href="https://github.com/Amanbey/Invoices-tracking-web-app">Invoice &amp; Payment Tracking System</a></h3>
+      <h3 align="left">⚔️ Word Battle — Real-Time Multiplayer Telegram Mini App</h3>
       <p align="left">
-        A feature-packed full-stack enterprise financial ledger designed to automate billing, track client invoice lifecycles, and monitor payment completion statuses with audit logging and secure authentication.
+        A real-time competitive 1v1 word duel and typing race platform engineered as a Telegram Mini App. Features millisecond-precision WebSocket gameplay synchronization, automated matchmaking pools, private room invites, and competitive Elo leaderboards.
       </p>
       <p align="left">
-        <b>Tech Stack:</b> <code>Next.js 14</code> • <code>React 18</code> • <code>Node.js</code> • <code>Express</code> • <code>MongoDB</code> • <code>Mongoose</code> • <code>JWT</code> • <code>Helmet</code>
+        <b>Core Architecture:</b> <code>Next.js 15</code> • <code>NestJS 11</code> • <code>WebSockets (Socket.io)</code> • <code>PostgreSQL</code> • <code>Docker</code>
       </p>
+      <ul>
+        <li>Sub-50ms bidirectional state synchronization across distributed clients.</li>
+        <li>Cryptographic Telegram HMAC <code>initData</code> authentication handshake.</li>
+        <li>Containerized microservice architecture with serverless database pooling.</li>
+      </ul>
       <p align="left">
-        ✨ <i>Features: Role-based authorization, rate-limited secure REST API, PDF invoice attachments, automated status transitions.</i>
-      </p>
-      <p align="left">
-        <a href="https://github.com/Amanbey/Invoices-tracking-web-app"><b>Explore Repository →</b></a>
+        <b>Status:</b> Production System &bull; <i>Source code repository available on request</i>
       </p>
     </td>
   </tr>
+
+  <!-- Row 2: SafeMesh & Invoices Tracking -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">💊 <a href="https://github.com/Amanbey/pharmacy-management-system">Pharmacy &amp; Inventory Management System</a></h3>
+      <h3 align="left">📡 <a href="https://github.com/Amanbey/SafeMesh">SafeMesh — Off-Grid Disaster Communication Mesh</a></h3>
       <p align="left">
-        Comprehensive healthcare inventory and dispensary portal built to streamline pharmaceutical stock tracking, monitor medicine expiry dates, manage prescriptions, and analyze sales performance.
+        A decentralized peer-to-peer mesh networking solution engineered for humanitarian disaster recovery and remote crisis zones where cellular, satellite, and municipal internet infrastructures have collapsed.
       </p>
       <p align="left">
-        <b>Tech Stack:</b> <code>React 19</code> • <code>Vite</code> • <code>TailwindCSS v4</code> • <code>Recharts</code> • <code>Node.js</code> • <code>Express 5</code> • <code>MongoDB</code>
+        <b>Core Architecture:</b> <code>ESP32 Hardware</code> • <code>ESP-NOW Protocol</code> • <code>Svelte 5</code> • <code>TypeScript</code> • <code>Vite</code>
       </p>
+      <ul>
+        <li>Self-healing multi-hop packet routing across battery-powered nodes.</li>
+        <li>Emergency SOS distress broadcasts embedded with hardware GPS coordinates.</li>
+        <li>Interactive browser-based telemetry and network topology visualizer.</li>
+      </ul>
       <p align="left">
-        ✨ <i>Features: Interactive sales analytics dashboards, low-stock notifications, prescription records, staff access tiers.</i>
-      </p>
-      <p align="left">
-        <a href="https://github.com/Amanbey/pharmacy-management-system"><b>Explore Repository →</b></a>
+        <a href="https://github.com/Amanbey/SafeMesh"><b>Inspect Source Code →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">📡 <a href="https://github.com/Amanbey/SafeMesh">SafeMesh — Off-Grid Disaster Mesh Network</a></h3>
+      <h3 align="left">🧾 <a href="https://github.com/Amanbey/Invoices-tracking-web-app">Enterprise Invoicing &amp; Payment Ledger</a></h3>
       <p align="left">
-        Low-cost decentralized peer-to-peer mesh networking solution for disaster recovery and emergency response scenarios where conventional internet and cellular infrastructure are unavailable.
+        A full-stack financial tracking application designed to automate corporate billing workflows, monitor invoice settlement lifecycles, and maintain immutable audit histories for growing businesses.
       </p>
       <p align="left">
-        <b>Tech Stack:</b> <code>ESP32</code> • <code>ESP-NOW Protocol</code> • <code>Svelte</code> • <code>TypeScript</code> • <code>Vite</code>
+        <b>Core Architecture:</b> <code>Next.js 14</code> • <code>Node.js</code> • <code>Express 4</code> • <code>MongoDB</code> • <code>Mongoose</code> • <code>JWT</code>
       </p>
+      <ul>
+        <li>Granular role-based authorization with cryptographically signed tokens.</li>
+        <li>Automated lifecycle transitions across drafted, pending, and cleared states.</li>
+        <li>Production-hardened REST API with defensive rate limiting and CORS isolation.</li>
+      </ul>
       <p align="left">
-        ✨ <i>Features: Multi-hop packet relaying, SOS emergency alerts with GPS coordinates, live browser telemetry dashboard.</i>
-      </p>
-      <p align="left">
-        <a href="https://github.com/Amanbey/SafeMesh"><b>Explore Repository →</b></a>
+        <a href="https://github.com/Amanbey/Invoices-tracking-web-app"><b>Inspect Source Code →</b></a>
       </p>
     </td>
   </tr>
+
+  <!-- Row 3: Telegram AI Assistant & 3D Portfolio -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🤖 <a href="https://github.com/Amanbey/spam-email-classifier">Spam Email &amp; SMS Classifier</a></h3>
+      <h3 align="left">🤖 Telegram AI Business Assistant</h3>
       <p align="left">
-        End-to-end Machine Learning natural language processing classifier that identifies spam messages using TF-IDF feature extraction and trained classification models with serialized artifacts.
+        An autonomous conversational AI agent engineered for commercial Telegram accounts to triage inquiries, qualify incoming sales leads, and provide automated 24/7 customer onboarding via webhook pipelines.
       </p>
       <p align="left">
-        <b>Tech Stack:</b> <code>Python 3.9+</code> • <code>Scikit-Learn</code> • <code>Pandas</code> • <code>NumPy</code> • <code>TF-IDF</code>
+        <b>Core Architecture:</b> <code>Node.js</code> • <code>Express 5</code> • <code>grammY</code> • <code>OpenAI API</code> • <code>Webhooks</code>
       </p>
+      <ul>
+        <li>Context-aware natural language understanding and lead scoring algorithms.</li>
+        <li>Asynchronous webhook dispatch with rate-limited endpoint protection.</li>
+        <li>Automated escalation protocols routing high-intent buyers to human agents.</li>
+      </ul>
       <p align="left">
-        ✨ <i>Features: 98%+ validation accuracy, confusion matrix metrics, interactive custom text inference engine.</i>
-      </p>
-      <p align="left">
-        <a href="https://github.com/Amanbey/spam-email-classifier"><b>Explore Repository →</b></a>
+        <b>Status:</b> Production Solution &bull; <i>Case study &amp; architecture walkthrough available</i>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">⚡ Telegram AI Business Assistant</h3>
+      <h3 align="left">🎨 <a href="https://github.com/Amanbey/Aman-Portfolio">Interactive 3D Engineering Portfolio</a></h3>
       <p align="left">
-        Autonomous conversational AI assistant engineered for Telegram business accounts to automate client onboarding, answer inquiries 24/7, and manage sales leads through webhook workflows.
+        A modern, interactive developer portfolio website utilizing client-side 3D WebGL rendering to deliver a memorable visual presentation while maintaining high frame rates and optimal bundle efficiency.
       </p>
       <p align="left">
-        <b>Tech Stack:</b> <code>Node.js</code> • <code>Express 5</code> • <code>grammY</code> • <code>OpenAI API</code> • <code>Helmet</code>
+        <b>Core Architecture:</b> <code>React 18</code> • <code>Three.js</code> • <code>React Three Fiber</code> • <code>TypeScript</code> • <code>Vite</code>
       </p>
+      <ul>
+        <li>Custom 3D tech-stack ecosystem with real-time lighting and orbit controls.</li>
+        <li>Responsive canvas geometry with hardware-accelerated shaders.</li>
+        <li>Clean, modular component architecture with sub-second initial paint.</li>
+      </ul>
       <p align="left">
-        ✨ <i>Features: Context-aware prompt orchestration, rate-limited webhook endpoints, automated lead classification.</i>
+        <a href="https://github.com/Amanbey/Aman-Portfolio"><b>Inspect Source Code →</b></a>
       </p>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="./assets/divider.svg" alt="Divider" width="100%" />
+  <img src="./assets/divider.svg" alt="Section Divider" width="100%" />
 </div>
 
-## 📊 GitHub & Engineering Statistics
+## ⚙️ Engineering Principles & Approach
+
+```
+┌─────────────────────────┐   ┌─────────────────────────┐   ┌─────────────────────────┐
+│   Problem-First Design  │   │   Type Safety & Rigor   │   │  Autonomous Automation  │
+│  Software exists to     │──▶│  Defensive validation,  │──▶│  Eliminate redundant    │
+│  eliminate operational  │   │  strict typing, and     │   │  human overhead through │
+│  friction and deliver   │   │  maintainable, clean    │   │  intelligent pipelines  │
+│  measurable business    │   │  architectural bounds.  │   │  and webhook workflows. │
+│  value.                 │   │                         │   │                         │
+└─────────────────────────┘   └─────────────────────────┘   └─────────────────────────┘
+```
+
+1. **Architecture Before Code**: Establishing clear boundaries, explicit schemas, and data contracts before writing implementation logic ensures long-term system stability.
+2. **Defensive Reliability**: Systems should fail gracefully. Offline-first fallbacks, idempotent endpoints, and strict type constraints prevent cascade failures.
+3. **Applied Intelligence**: AI and automation are most valuable when grounded in concrete business workflows—improving speed, accuracy, and operational capacity.
+4. **Clean Craftsmanship**: Maintainable software is readable, self-documenting, tested, and respectful of both user latency and machine resources.
+
+<div align="center">
+  <img src="./assets/divider.svg" alt="Section Divider" width="100%" />
+</div>
+
+## 📊 Analytics & Activity
 
 <div align="center">
 
 <table border="0">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Amanbey&show_icons=true&theme=transparent&title_color=38bdf8&text_color=94a3b8&icon_color=0ea5e9&border_color=1e293b&locale=en" alt="Amanbey GitHub Stats" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Amanbey&show_icons=true&theme=tokyonight&hide_border=true&title_color=10B981&text_color=94A3B8&icon_color=38BDF8&bg_color=0B0F19" alt="Aman Abdela GitHub Activity Statistics" />
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanbey&layout=compact&theme=transparent&title_color=38bdf8&text_color=94a3b8&border_color=1e293b&hide=hack,html" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanbey&theme=transparent&background=060913&border=1e293b&stroke=38bdf8&ring=0ea5e9&fire=38bdf8&currStreakLabel=38bdf8&sideNums=e2e8f0&sideLabels=94a3b8&dates=64748b" alt="Amanbey Contribution Streak" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanbey&layout=compact&theme=tokyonight&hide_border=true&title_color=10B981&text_color=94A3B8&bg_color=0B0F19&hide=hack,html" alt="Primary Programming Languages Breakdown" />
     </td>
   </tr>
 </table>
@@ -229,38 +249,35 @@ I am a **Full-Stack Software Engineer** and **Software Engineering student at Ad
 </div>
 
 <div align="center">
-  <img src="./assets/divider.svg" alt="Divider" width="100%" />
+  <img src="./assets/divider.svg" alt="Section Divider" width="100%" />
 </div>
 
-## 📬 Connect & Collaborate
+## 🤝 Connect & Collaborate
 
-Whether you're looking to discuss full-stack engineering opportunities, collaborate on innovative open-source projects, or build something extraordinary together, I'd love to connect!
+Whether you represent an international engineering team seeking a versatile software engineer, a startup founder building an MVP, or an enterprise seeking business automation:
 
 <div align="center">
 
 <p align="center">
-  <a href="mailto:ziyadabdela58@gmail.com">
-    <img src="https://img.shields.io/badge/Primary_Email-ziyadabdela58%40gmail.com-0284c7?style=for-the-badge&logo=gmail&logoColor=white" alt="Primary Email" />
+  <a href="https://linkedin.com/in/aman-abdela">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Aman on LinkedIn" />
   </a>
+  &nbsp;
+  <a href="mailto:2atechsolutions@gmail.com">
+    <img src="https://img.shields.io/badge/Business_Email-2atechsolutions%40gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2atechsolutions@gmail.com" />
+  </a>
+  &nbsp;
   <a href="mailto:amanabdela6288@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Email-amanabdela6288%40gmail.com-0ea5e9?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact Email" />
-  </a>
-  <a href="https://github.com/Amanbey">
-    <img src="https://img.shields.io/badge/GitHub-Amanbey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Aman_Abdela-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Direct_Email-amanabdela6288%40gmail.com-0284C7?style=for-the-badge&logo=mailgun&logoColor=white" alt="Email amanabdela6288@gmail.com" />
   </a>
 </p>
 
 <p align="center">
-  📍 <b>Based in Ethiopia</b> • 🎓 <b>Adama Science and Technology University (ASTU)</b> • ⚡ <b>Available for Worldwide Remote Roles</b>
+  📍 <b>Remote Worldwide</b> &bull; ⚡ <b>Response Time: &lt; 24 Hours</b> &bull; 🎯 <b>Open for Contracts &amp; Full-Time Roles</b>
 </p>
 
 <br/>
 
-<p align="center">
-  <sub>Designed &amp; crafted with precision for <b>Aman Abdela</b> • © 2026. All rights reserved.</sub>
-</p>
+<sub>Architected with precision for <b>Aman Abdela</b> &bull; 2026. All verified projects and rights reserved.</sub>
 
 </div>
