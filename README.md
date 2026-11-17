@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner Asset -->
-<img src="./assets/hero-banner.svg" alt="Aman Abdela - Software Engineer & System Architect" width="100%" />
+<img src="./assets/hero-banner.svg" alt="Aman Abdela - Full-Stack Software Engineer & Distributed Systems Architect" width="100%" />
 
 <br/><br/>
 
@@ -21,6 +21,10 @@
 <a href="https://github.com/Amanbey">
   <img src="https://img.shields.io/badge/Location-Remote_Worldwide-0F172A?style=flat-square&logo=googlemaps&logoColor=38BDF8" alt="Location" />
 </a>
+&nbsp;
+<a href="https://github.com/Amanbey">
+  <img src="https://img.shields.io/badge/Status-Available_for_Roles_%26_Contracts-10B981?style=flat-square" alt="Status" />
+</a>
 
 <br/><br/>
 
@@ -28,15 +32,15 @@
 
 </div>
 
-## 📌 Executive Summary
+## 📌 Executive Profile
 
-I am a **Software Engineer**, **Full-Stack Developer**, and **Business Automation Engineer** specializing in the design and delivery of resilient, production-ready software solutions. My engineering focus bridges robust enterprise web applications, real-time distributed backends, intelligent multi-agent AI systems, and low-latency edge/IoT protocols.
+I am a **Full-Stack Software Engineer** and **Distributed Systems Architect** specializing in the engineering and deployment of resilient, production-ready software solutions. My engineering focus bridges robust enterprise web applications, real-time distributed backends, intelligent multi-agent AI workflows, and low-latency edge/IoT communication protocols.
 
-Rather than assembling code for isolated tasks, I build maintainable software products that solve concrete operational and business challenges—ranging from offline-first agricultural intelligence platforms for smallholders to high-throughput multiplayer engines and autonomous CRM triage assistants.
+Rather than assembling code for isolated tasks, I engineer maintainable software products that eliminate concrete operational bottlenecks—ranging from offline-first agricultural intelligence platforms for smallholders to sub-50ms multiplayer synchronization engines and autonomous commercial lead qualification pipelines.
 
-- 🏗️ **Architectural Focus**: Scalable distributed systems, type-safe full-stack pipelines, clean modular services, and offline-first database synchronization.
-- ⚡ **Engineering Practice**: Strict type safety, automated CI/CD testing, defensive rate limiting, cryptographic session validation, and intuitive user experiences.
-- 🌍 **Collaboration**: Available for international engineering contracts, full-stack product development, and remote technical roles.
+* 🏗️ **Architectural Rigor**: Scalable distributed microservices, type-safe full-stack pipelines, clean modular services, and deterministic offline-first database synchronization.
+* ⚡ **Engineering Practice**: Strict type safety, automated CI/CD validation, defensive rate limiting, cryptographic session authentication, and high-performance WebGL rendering.
+* 🌍 **Global Availability**: Open for international technical roles, contract product engineering, and high-impact distributed systems development.
 
 <div align="center">
   <img src="./assets/divider.svg" alt="Section Divider" width="100%" />
@@ -44,42 +48,44 @@ Rather than assembling code for isolated tasks, I build maintainable software pr
 
 ## 🛠️ Technical Stack & Engineering Capabilities
 
-A curated overview of technologies, frameworks, and architectural tools verified across production codebases:
+A curated matrix of technologies, frameworks, and architectural tools verified across production codebases:
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🌐 Frontend Development</h4>
-      <ul>
-        <li><b>Frameworks:</b> Next.js 14 / 15 (App Router), React 18 / 19, Svelte 5</li>
-        <li><b>Languages:</b> TypeScript (Strict), JavaScript (ES2024+)</li>
-        <li><b>Styling &amp; UI:</b> Tailwind CSS, Base UI, PostCSS</li>
-        <li><b>3D &amp; Creative:</b> Three.js, React Three Fiber (R3F)</li>
-        <li><b>Core Standards:</b> HTML5, CSS3, Modern Web APIs</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>⚙️ Backend &amp; Distributed Systems</h4>
-      <ul>
-        <li><b>Runtimes &amp; Frameworks:</b> Node.js, NestJS 11, Express 4 / 5</li>
-        <li><b>Real-Time &amp; Concurrency:</b> WebSockets, Socket.io</li>
-        <li><b>APIs:</b> RESTful Architectures, Webhooks, Telegram Bot API</li>
-        <li><b>Security:</b> JWT Authentication, HMAC Verification, Rate Limiting</li>
-        <li><b>Microcontrollers:</b> ESP32, ESP-NOW Mesh Protocol</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🗄️ Database, AI &amp; Automation</h4>
-      <ul>
-        <li><b>Databases:</b> PostgreSQL, Supabase, MongoDB, Mongoose</li>
-        <li><b>Client-Side Storage:</b> IndexedDB (<code>idb</code>), LocalStorage</li>
-        <li><b>AI &amp; ML:</b> Multi-Agent Architectures, OpenAI API, Scikit-Learn</li>
-        <li><b>Workflow Automation:</b> grammY Bot Framework, n8n, Webhooks</li>
-        <li><b>DevOps &amp; Tools:</b> Docker, Git, GitHub Actions, Vite, Postman</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+### 🌐 Frontend & UI Architecture
+[![Next.js 15](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+[![React 19](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![Svelte 5](https://img.shields.io/badge/Svelte_5-FF3E00?style=flat-square&logo=svelte&logoColor=white)](https://svelte.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)](https://threejs.org/)
+[![React Three Fiber](https://img.shields.io/badge/R3F-v8-black?style=flat-square&logo=three.js&logoColor=38BDF8)](https://r3f.docs.pmnd.rs/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+
+### ⚙️ Backend, Concurrency & Microservices
+[![NestJS 11](https://img.shields.io/badge/NestJS_11-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![WebSockets](https://img.shields.io/badge/WebSockets-Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)](https://socket.io/)
+[![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://core.telegram.org/bots)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org/)
+
+### 🗄️ Database, Storage & Cloud Services
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
+[![IndexedDB](https://img.shields.io/badge/IndexedDB-idb_Offline_Storage-10B981?style=flat-square&logo=databricks&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+
+### 🤖 AI, Edge Networks & DevOps
+[![ESP32 Hardware](https://img.shields.io/badge/ESP32-Hardware_Mesh-E7352C?style=flat-square&logo=espressif&logoColor=white)](https://espressif.com/)
+[![ESP-NOW Protocol](https://img.shields.io/badge/Protocol-ESP--NOW-10B981?style=flat-square)](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/network/esp_now.html)
+[![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.com/)
+[![Multi--Agent AI](https://img.shields.io/badge/Multi--Agent_AI-Architectures-38BDF8?style=flat-square)](https://en.wikipedia.org/wiki/Multi-agent_system)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+
+</div>
 
 <div align="center">
   <img src="./assets/divider.svg" alt="Section Divider" width="100%" />
@@ -87,11 +93,28 @@ A curated overview of technologies, frameworks, and architectural tools verified
 
 ## 🌟 Featured Engineering Projects
 
-A showcase of verified software products emphasizing full-stack engineering, distributed architectures, hardware networks, and practical automation.
+A showcase of verified software products highlighting distributed architectures, real-time multiplayer systems, edge hardware, and autonomous business workflows.
 
 <table>
-  <!-- Row 1: Root & Word Battle -->
+  <!-- Row 1: SafeMesh & Root -->
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">📡 <a href="https://github.com/Amanbey/SafeMesh">SafeMesh — Off-Grid Disaster Communication Mesh</a></h3>
+      <p align="left">
+        A decentralized peer-to-peer mesh networking solution engineered for humanitarian disaster recovery and remote crisis zones where cellular, satellite, and municipal internet infrastructures have collapsed.
+      </p>
+      <p align="left">
+        <b>Core Architecture:</b> <code>ESP32 Hardware</code> • <code>ESP-NOW Protocol</code> • <code>Svelte 5</code> • <code>TypeScript</code> • <code>Vite</code>
+      </p>
+      <ul>
+        <li>Self-healing multi-hop packet routing across autonomous battery-powered nodes.</li>
+        <li>Emergency SOS distress broadcasts embedded with hardware GPS coordinates.</li>
+        <li>Reactive browser-based telemetry and network topology visualizer via Web Serial.</li>
+      </ul>
+      <p align="left">
+        <a href="https://github.com/Amanbey/SafeMesh"><b>Inspect Source Code &amp; Visualizer →</b></a>
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="left">🌱 <a href="https://github.com/Amanbey/Root">Root (ሩት) — Offline-First Multi-Agent Agronomy Platform</a></h3>
       <p align="left">
@@ -109,8 +132,12 @@ A showcase of verified software products emphasizing full-stack engineering, dis
         <a href="https://github.com/Amanbey/Root"><b>Inspect Source Code →</b></a>
       </p>
     </td>
+  </tr>
+
+  <!-- Row 2: Word Battle & Invoices Tracking -->
+  <tr>
     <td width="50%" valign="top">
-      <h3 align="left">⚔️ Word Battle — Real-Time Multiplayer Telegram Mini App</h3>
+      <h3 align="left">⚔️ <a href="https://github.com/Amanbey/Word-battle">Word Battle — Real-Time Multiplayer Telegram Mini App</a></h3>
       <p align="left">
         A real-time competitive 1v1 word duel and typing race platform engineered as a Telegram Mini App. Features millisecond-precision WebSocket gameplay synchronization, automated matchmaking pools, private room invites, and competitive Elo leaderboards.
       </p>
@@ -123,28 +150,7 @@ A showcase of verified software products emphasizing full-stack engineering, dis
         <li>Containerized microservice architecture with serverless database pooling.</li>
       </ul>
       <p align="left">
-        <b>Status:</b> Production System &bull; <i>Source code repository available on request</i>
-      </p>
-    </td>
-  </tr>
-
-  <!-- Row 2: SafeMesh & Invoices Tracking -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">📡 <a href="https://github.com/Amanbey/SafeMesh">SafeMesh — Off-Grid Disaster Communication Mesh</a></h3>
-      <p align="left">
-        A decentralized peer-to-peer mesh networking solution engineered for humanitarian disaster recovery and remote crisis zones where cellular, satellite, and municipal internet infrastructures have collapsed.
-      </p>
-      <p align="left">
-        <b>Core Architecture:</b> <code>ESP32 Hardware</code> • <code>ESP-NOW Protocol</code> • <code>Svelte 5</code> • <code>TypeScript</code> • <code>Vite</code>
-      </p>
-      <ul>
-        <li>Self-healing multi-hop packet routing across battery-powered nodes.</li>
-        <li>Emergency SOS distress broadcasts embedded with hardware GPS coordinates.</li>
-        <li>Interactive browser-based telemetry and network topology visualizer.</li>
-      </ul>
-      <p align="left">
-        <a href="https://github.com/Amanbey/SafeMesh"><b>Inspect Source Code →</b></a>
+        <a href="https://github.com/Amanbey/Word-battle"><b>Inspect Architecture &amp; Implementation →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -169,7 +175,7 @@ A showcase of verified software products emphasizing full-stack engineering, dis
   <!-- Row 3: Telegram AI Assistant & 3D Portfolio -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🤖 Telegram AI Business Assistant</h3>
+      <h3 align="left">🤖 <a href="https://github.com/Amanbey/telegram-business-assistant">Telegram AI Business Assistant</a></h3>
       <p align="left">
         An autonomous conversational AI agent engineered for commercial Telegram accounts to triage inquiries, qualify incoming sales leads, and provide automated 24/7 customer onboarding via webhook pipelines.
       </p>
@@ -182,19 +188,19 @@ A showcase of verified software products emphasizing full-stack engineering, dis
         <li>Automated escalation protocols routing high-intent buyers to human agents.</li>
       </ul>
       <p align="left">
-        <b>Status:</b> Production Solution &bull; <i>Case study &amp; architecture walkthrough available</i>
+        <a href="https://github.com/Amanbey/telegram-business-assistant"><b>Inspect Source Code &amp; Walkthrough →</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="left">🎨 <a href="https://github.com/Amanbey/Aman-Portfolio">Interactive 3D Engineering Portfolio</a></h3>
       <p align="left">
-        A modern, interactive developer portfolio website utilizing client-side 3D WebGL rendering to deliver a memorable visual presentation while maintaining high frame rates and optimal bundle efficiency.
+        A modern, interactive developer portfolio website utilizing client-side 3D WebGL rendering to deliver a memorable visual presentation while maintaining 60fps frame rates and optimal bundle efficiency.
       </p>
       <p align="left">
         <b>Core Architecture:</b> <code>React 18</code> • <code>Three.js</code> • <code>React Three Fiber</code> • <code>TypeScript</code> • <code>Vite</code>
       </p>
       <ul>
-        <li>Custom 3D tech-stack ecosystem with real-time lighting and orbit controls.</li>
+        <li>Procedural 3D tech-stack ecosystem with real-time lighting and orbit controls.</li>
         <li>Responsive canvas geometry with hardware-accelerated shaders.</li>
         <li>Clean, modular component architecture with sub-second initial paint.</li>
       </ul>
@@ -209,7 +215,7 @@ A showcase of verified software products emphasizing full-stack engineering, dis
   <img src="./assets/divider.svg" alt="Section Divider" width="100%" />
 </div>
 
-## ⚙️ Engineering Principles & Approach
+## ⚙️ Engineering Principles & Architectural Approach
 
 ```
 ┌─────────────────────────┐   ┌─────────────────────────┐   ┌─────────────────────────┐
@@ -231,17 +237,22 @@ A showcase of verified software products emphasizing full-stack engineering, dis
   <img src="./assets/divider.svg" alt="Section Divider" width="100%" />
 </div>
 
-## 📊 Analytics & Activity
+## 📊 GitHub Analytics & Activity Overview
 
 <div align="center">
 
 <table border="0">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Amanbey&show_icons=true&theme=tokyonight&hide_border=true&title_color=10B981&text_color=94A3B8&icon_color=38BDF8&bg_color=0B0F19" alt="Aman Abdela GitHub Activity Statistics" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Amanbey&show_icons=true&theme=tokyonight&hide_border=true&title_color=10B981&text_color=94A3B8&icon_color=38BDF8&bg_color=080C14" alt="Aman Abdela GitHub Activity Statistics" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanbey&layout=compact&theme=tokyonight&hide_border=true&title_color=10B981&text_color=94A3B8&bg_color=0B0F19&hide=hack,html" alt="Primary Programming Languages Breakdown" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanbey&layout=compact&theme=tokyonight&hide_border=true&title_color=10B981&text_color=94A3B8&bg_color=080C14&hide=hack,html" alt="Primary Programming Languages Breakdown" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amanbey&theme=tokyonight&hide_border=true&background=080C14&ring=10B981&fire=38BDF8&currStreakLabel=10B981" alt="Aman Abdela GitHub Contribution Streak" />
     </td>
   </tr>
 </table>
@@ -254,21 +265,21 @@ A showcase of verified software products emphasizing full-stack engineering, dis
 
 ## 🤝 Connect & Collaborate
 
-Whether you represent an international engineering team seeking a versatile software engineer, a startup founder building an MVP, or an enterprise seeking business automation:
+Whether you represent an engineering team seeking a versatile software engineer, a startup founder building an MVP, or an enterprise seeking business automation:
 
 <div align="center">
 
 <p align="center">
   <a href="https://linkedin.com/in/aman-abdela">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Aman on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect with Aman on LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:2atechsolutions@gmail.com">
-    <img src="https://img.shields.io/badge/Business_Email-2atechsolutions%40gmail.com-10B981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2atechsolutions@gmail.com" />
+    <img src="https://img.shields.io/badge/Business_Email-2atechsolutions%40gmail.com-10B981?style=flat-square&logo=gmail&logoColor=white" alt="Email 2atechsolutions@gmail.com" />
   </a>
   &nbsp;
   <a href="mailto:amanabdela6288@gmail.com">
-    <img src="https://img.shields.io/badge/Direct_Email-amanabdela6288%40gmail.com-0284C7?style=for-the-badge&logo=mailgun&logoColor=white" alt="Email amanabdela6288@gmail.com" />
+    <img src="https://img.shields.io/badge/Direct_Email-amanabdela6288%40gmail.com-0284C7?style=flat-square&logo=mailgun&logoColor=white" alt="Email amanabdela6288@gmail.com" />
   </a>
 </p>
 
