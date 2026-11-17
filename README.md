@@ -1,32 +1,32 @@
 <div align="center">
 
 <!-- Hero Banner Asset -->
-<img src="./assets/hero-banner.svg" alt="Aman Abdela - Full-Stack Software Engineer & Distributed Systems Architect" width="100%" />
+<img src="./assets/hero-banner.png" alt="Aman Abdela - Software Engineer | Full-Stack Developer | Business Automation Engineer" width="100%" />
 
 <br/><br/>
 
-<!-- Professional Badges -->
-<a href="https://linkedin.com/in/aman-abdela">
-  <img src="https://img.shields.io/badge/LinkedIn-Aman_Abdela-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-</a>
-&nbsp;
-<a href="mailto:2atechsolutions@gmail.com">
-  <img src="https://img.shields.io/badge/Business_Inquiry-2atechsolutions%40gmail.com-10B981?style=flat-square&logo=gmail&logoColor=white" alt="Business Email" />
-</a>
-&nbsp;
-<a href="mailto:amanabdela6288@gmail.com">
-  <img src="https://img.shields.io/badge/Direct_Contact-amanabdela6288%40gmail.com-0284C7?style=flat-square&logo=mailgun&logoColor=white" alt="Direct Email" />
-</a>
-&nbsp;
-<a href="https://github.com/Amanbey">
-  <img src="https://img.shields.io/badge/Location-Remote_Worldwide-0F172A?style=flat-square&logo=googlemaps&logoColor=38BDF8" alt="Location" />
-</a>
-&nbsp;
-<a href="https://github.com/Amanbey">
-  <img src="https://img.shields.io/badge/Status-Available_for_Roles_%26_Contracts-10B981?style=flat-square" alt="Status" />
-</a>
-
-<br/><br/>
+<!-- Verified Contact & Professional Social Badges -->
+<p align="center">
+  <a href="mailto:2atechsolutions@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2atechsolutions%40gmail.com-10B981?style=flat-square&logo=gmail&logoColor=white" alt="Business Email" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/aman-abdela">
+    <img src="https://img.shields.io/badge/LinkedIn-aman--abdela-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Amanbey">
+    <img src="https://img.shields.io/badge/GitHub-Amanbey-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Amanbey">
+    <img src="https://img.shields.io/badge/Location-Remote_Worldwide-0F172A?style=flat-square&logo=googlemaps&logoColor=38BDF8" alt="Location" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Amanbey">
+    <img src="https://img.shields.io/badge/Status-Available_for_Collaboration-10B981?style=flat-square" alt="Status" />
+  </a>
+</p>
 
 <img src="./assets/divider.svg" alt="Section Divider" width="100%" />
 
